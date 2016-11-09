@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java/cpptojava/lib/com.ibm.icu_50.1.1.v201304230130.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java/cpptojava/lib/org.eclipse.cdt.core_5.5.0.201306112328.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Java/cpptojava/lib/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
